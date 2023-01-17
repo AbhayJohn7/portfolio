@@ -95,9 +95,6 @@ p{
     color: crimson;
 }
 
-
-/* Header Section */
-
 #header{
     position: fixed;
     z-index: 1000;
